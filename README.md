@@ -1,4 +1,4 @@
-# Spacially Selective Audio Source Separator (SSASS)
+# Spacially Selective Audio Source Seperation (SSASS)
 Audio source separator utilizing a 16-channel audio developed as part of the UT Austin ECE Capstone Project
 
 Software:
