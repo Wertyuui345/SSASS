@@ -2,9 +2,9 @@
 Audio source separator utilizing a 16-channel audio developed as part of the UT Austin ECE Capstone Project
 
 Software:
+Tanay Mannikar
 Blake Schwartz
 Alex Zhang
-Tanay Mannikar
 
 Hardware:
 Zach Hestand
