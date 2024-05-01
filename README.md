@@ -1,6 +1,15 @@
 # AudIoSourceSeperator
 Audio source separator utilizing a 16 channel audio developed as part of the UT Austin ECE Capstone Project
 
+Software:
+Blake Schwartz
+Alex Zhang
+Tanay Mannikar
+
+Hardware:
+Zach Hestand
+Ayan Basu
+
 # Usage
 
 Download and run DemoAudio.ipynb as well as AudioMaskerCircular-MAG257_5STEP.pth and upload them to a directory
