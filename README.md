@@ -1,5 +1,5 @@
-# AudIoSourceSeperator
-Audio source separator utilizing a 16 channel audio developed as part of the UT Austin ECE Capstone Project
+# Spacially Selective Audio Source Separator (SSASS)
+Audio source separator utilizing a 16-channel audio developed as part of the UT Austin ECE Capstone Project
 
 Software:
 Blake Schwartz
