@@ -1,0 +1,22 @@
+wandb: Currently logged in as: wertyuui345. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.16.6
+wandb: Run data is saved locally in /scratch/09816/wertyuui345/ls6/AudioSeperation/wandb/run-20240428_182908-bd3vuzky
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run 1 GPU A100 10CHA 32CNN CONCAT HIGAMMA.9
+wandb: ⭐️ View project at https://wandb.ai/wertyuui345/AudioSeparator
+wandb: 🚀 View run at https://wandb.ai/wertyuui345/AudioSeparator/runs/bd3vuzky
+wandb: - 0.004 MB of 0.004 MB uploadedwandb: \ 0.010 MB of 0.010 MB uploadedwandb: 
+wandb: Run history:
+wandb: Epoch ▁▁▁▁▂▂▂▂▂▃▃▃▃▃▃▄▄▄▄▄▅▅▅▅▅▅▆▆▆▆▆▆▇▇▇▇▇███
+wandb:  loss █▇▆▅▃▃▃▂▂▂▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+wandb: vloss ▃▃▃█▂▆▇▄▂▆▃▆▁▅▁▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+wandb: 
+wandb: Run summary:
+wandb: Epoch 50
+wandb:  loss 0.14832
+wandb: vloss 0.1507
+wandb: 
+wandb: 🚀 View run 1 GPU A100 10CHA 32CNN CONCAT HIGAMMA.9 at: https://wandb.ai/wertyuui345/AudioSeparator/runs/bd3vuzky
+wandb: ⭐️ View project at: https://wandb.ai/wertyuui345/AudioSeparator
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20240428_182908-bd3vuzky/logs

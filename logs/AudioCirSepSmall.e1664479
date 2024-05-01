@@ -1,0 +1,4 @@
+  File "/scratch/09816/wertyuui345/ls6/AudioSeperation/audiomodelmaskeddownMAGEXPANDCONCAT.py", line 50
+    data = np.concatenate((data[0, :, :], data[1, :, :], data[2, :, :], data[3, :, :], data[4, :, :], axis = 1)
+                                                                                                           ^
+SyntaxError: invalid syntax

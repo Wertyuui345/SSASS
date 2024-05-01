@@ -1,0 +1,31 @@
+wandb: Currently logged in as: wertyuui345. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.16.6
+wandb: Run data is saved locally in /scratch/09816/wertyuui345/ls6/AudioSeperation/wandb/run-20240427_003742-0vcluoab
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run 1 GPU A100 10CHA 32CNN DEEP HIGAMMA.9
+wandb: ⭐️ View project at https://wandb.ai/wertyuui345/AudioSeparator
+wandb: 🚀 View run at https://wandb.ai/wertyuui345/AudioSeparator/runs/0vcluoab
+Traceback (most recent call last):
+  File "/scratch/09816/wertyuui345/ls6/AudioSeperation/audiomodelmaskeddownMAGEXPAND.py", line 204, in <module>
+    predicted = model(inputs)
+  File "/work/09816/wertyuui345/ls6/env/Audio/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/work/09816/wertyuui345/ls6/env/Audio/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/scratch/09816/wertyuui345/ls6/AudioSeperation/audiomodelmaskeddownMAGEXPAND.py", line 149, in forward
+    x = self.pool(x)
+  File "/work/09816/wertyuui345/ls6/env/Audio/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/work/09816/wertyuui345/ls6/env/Audio/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/work/09816/wertyuui345/ls6/env/Audio/lib/python3.9/site-packages/torch/nn/modules/pooling.py", line 164, in forward
+    return F.max_pool2d(input, self.kernel_size, self.stride,
+  File "/work/09816/wertyuui345/ls6/env/Audio/lib/python3.9/site-packages/torch/_jit_internal.py", line 499, in fn
+    return if_false(*args, **kwargs)
+  File "/work/09816/wertyuui345/ls6/env/Audio/lib/python3.9/site-packages/torch/nn/functional.py", line 796, in _max_pool2d
+    return torch.max_pool2d(input, kernel_size, stride, padding, dilation, ceil_mode)
+RuntimeError: Given input size: (128x33x32). Calculated output size: (128x33x0). Output size is too small
+wandb: - 0.004 MB of 0.004 MB uploadedwandb: \ 0.004 MB of 0.004 MB uploadedwandb: | 0.008 MB of 0.008 MB uploadedwandb: 🚀 View run 1 GPU A100 10CHA 32CNN DEEP HIGAMMA.9 at: https://wandb.ai/wertyuui345/AudioSeparator/runs/0vcluoab
+wandb: ⭐️ View project at: https://wandb.ai/wertyuui345/AudioSeparator
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20240427_003742-0vcluoab/logs

@@ -1,0 +1,9 @@
+wandb: Currently logged in as: wertyuui345. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.16.6
+wandb: Run data is saved locally in /scratch/09816/wertyuui345/ls6/AudioSeperation/wandb/run-20240427_042931-qeqm1enn
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run 1 GPU A100 10CHA 32CNN DEEP HIGAMMA.9
+wandb: ⭐️ View project at https://wandb.ai/wertyuui345/AudioSeparator
+wandb: 🚀 View run at https://wandb.ai/wertyuui345/AudioSeparator/runs/qeqm1enn
+wandb: Network error (ReadTimeout), entering retry loop.
+slurmstepd: error: *** JOB 1663775 ON v330-009 CANCELLED AT 2024-04-27T12:22:21 ***
