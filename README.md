@@ -15,7 +15,9 @@ Ayan Basu
 
 # Usage
 
-Download and run DemoAudio.ipynb as well as AudioMaskerCircular-MAG257_5STEP.pth and upload them to a directory
-Record audio using a 16-channel microphone array and upload the .wav file. Change the .wav name in DemoAudio.ipynb to the name of the new audio file.
+Download the repo and run DemoAudio.ipynb.
+Record audio using a 16-channel microphone array and upload the .wav file. Change the mixedaudio variable name to your new .wav file in DemoAudio.ipynb.
 
 Run all blocks under dependencies and run "Running" for every new file.
+
+The folder example_audio has an example 16-channel, multi-speaker recording and a single-channel, masked audio result. 
